@@ -59,9 +59,7 @@
     </a>
   </p>
 
-  <h2>Github Stats</
-
-h2>
+  <h2>Github Stats</h2>
 
   <p><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></p>
 
