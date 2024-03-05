@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Alberto Bernaola</title>
 </head>
-<body>
+<body style="background-color: #000; color: #FFF;">
   <h1 align="center">Hello, I'm Alberto Bernaola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -59,7 +59,9 @@
     </a>
   </p>
 
-  <h2>Github Stats</h2>
+  <h2>Github Stats</
+
+h2>
 
   <p><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="50px"></p>
 
@@ -76,12 +78,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrBergstrom&langs_count=10">
     </p>
   </details>
-
-  <h2>A Snake Eating my Contributions Graph</h2>
-  
-  <p align="center">
-    <img src="https://github.com/SrBergstrom/SrBergstrom/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-  </p>
   
 </body>
 </html>
